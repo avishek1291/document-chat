@@ -1,0 +1,4 @@
+.faiss_db
+.CHANGES.md
+__pycache__/
+faiss_db/
